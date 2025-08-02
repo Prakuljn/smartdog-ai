@@ -1,0 +1,13 @@
+[project]
+name = "dog"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "flask>=3.1.1",
+    "opencv-python>=4.12.0.88",
+    "requests>=2.32.4",
+    "streamlit>=1.47.1",
+    "ultralytics>=8.3.172",
+]
