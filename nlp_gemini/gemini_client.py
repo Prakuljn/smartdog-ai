@@ -1,7 +1,7 @@
 import requests
 
 GEMINI_API_URL = "https://api.gemini.google.com/v1/generate"
-GEMINI_API_KEY = "AIzaSyCxjhIzf37VKQJmAFcEhV_Zuo4o6-bi-PE"
+GEMINI_API_KEY = ""
 
 def query_gemini(prompt):
     headers = {
